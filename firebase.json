@@ -1,0 +1,19 @@
+{
+  "hosting": [
+    {
+      "target": "appAuto",
+      "public": "dist/appAuto",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    }
+  ]
+}

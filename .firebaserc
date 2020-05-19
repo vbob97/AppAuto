@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "autoscuola-7cfef": {
+      "hosting": {
+        "appAuto": [
+          "autoscuola-7cfef"
+        ]
+      }
+    }
+  }
+}
