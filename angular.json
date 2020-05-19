@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "appAuto"
+  "defaultProject": "appAuto",
+  "cli": {
+    "analytics": "f44a5ca3-4d44-4d28-af6c-141a4d806021"
+  }
 }
